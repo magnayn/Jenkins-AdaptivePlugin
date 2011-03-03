@@ -3,3 +3,5 @@ work
 *.iml
 pom.xml.releaseBackup
 release.properties
+.idea
+.DS_Store
